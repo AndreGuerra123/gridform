@@ -3,6 +3,7 @@
   "name": "gridform",
   "description": "Stream formidable uploads into MongoDB GridFS",
   "version": "0.1.7",
+  "license": "MIT",
   "keywords": [
     "gridfs",
     "formidable",
@@ -19,12 +20,14 @@
   },
   "devDependencies": {
     "chai": "^4.2.0",
+    "codecov": "^3.1.0",
     "concat-stream": "^1.6.2",
     "express": "^4.16.4",
     "express-promise-router": "^3.0.3",
     "fetch": "^1.1.0",
     "form-data": "^2.3.3",
     "formidable": "^1.2.1",
+    "istanbul": "^0.4.5",
     "jasmine": "^3.3.1",
     "mongodb": "^3.1.10",
     "request": "^2.88.0",
